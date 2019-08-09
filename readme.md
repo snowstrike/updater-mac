@@ -1,1 +1,1 @@
-###Official snowstrike updater releases
+### Official snowstrike updater releases
